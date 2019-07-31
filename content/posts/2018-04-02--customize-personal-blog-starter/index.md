@@ -11,7 +11,7 @@ Find the `theme.js` file.
 ```text
 root
   ├── src
-  │   ├── styles
+  │ |-  ├── styles
   │   │   ├── colors.js
   │   │   ├── globals.js
   │   │   └── theme.js

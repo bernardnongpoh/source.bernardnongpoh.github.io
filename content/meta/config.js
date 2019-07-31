@@ -1,32 +1,32 @@
 const colors = require("../../src/styles/colors");
 
 module.exports = {
-  siteTitle: "PersonalBlog - a blog starter for GatsbyJS", // <title>
-  shortSiteTitle: "PersonalBlog GatsbyJS Starter", // <title> ending for posts and pages
-  siteDescription: "PersonalBlog is a GatsbyJS starter.",
-  siteUrl: "https://gatsby-starter-personal-blog.greglobinski.com",
+  siteTitle: "Bernard Nongpoh  - A Personal Notes", // <title>
+  shortSiteTitle: "Personal Notebook", // <title> ending for posts and pages
+  siteDescription: "Personal Notebook from my personal learning experience",
+  siteUrl: "https://bernardnongpoh.github.io",
   pathPrefix: "",
   siteImage: "preview.jpg",
   siteLanguage: "en",
   // author
-  authorName: "greg lobinski",
-  authorTwitterAccount: "greglobinski",
+  authorName: "Bernard Nongpoh",
+  authorTwitterAccount: "bernardnongpoh",
   // info
-  infoTitle: "greg lobinski",
+  infoTitle: "Bernard Nongpoh",
   infoTitleNote: "personal blog",
   // manifest.json
-  manifestName: "PersonalBlog - a blog starter for GatsbyJS",
-  manifestShortName: "PersonalBlog", // max 12 characters
+  manifestName: "PersonalBlog - ",
+  manifestShortName: "Bernard Nongpoh", // max 12 characters
   manifestStartUrl: "/",
   manifestBackgroundColor: colors.background,
   manifestThemeColor: colors.background,
   manifestDisplay: "standalone",
   // contact
-  contactEmail: "john@doe.com",
+  contactEmail: "bernard.nongpoh@gmail.com",
   // social
   authorSocialLinks: [
-    { name: "github", url: "https://github.com/greglobinski" },
-    { name: "twitter", url: "https://twitter.com/greglobinski" },
-    { name: "facebook", url: "https://facebook.com/greglobinski" }
+    { name: "github", url: "https://github.com/bernardnongpoh" },
+    { name: "twitter", url: "https://twitter.com/bernardnongpoh" },
+    { name: "facebook", url: "https://facebook.com/bernardnongpoh" }
   ]
 };
