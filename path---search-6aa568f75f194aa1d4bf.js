@@ -1,0 +1,2 @@
+webpackJsonp([0xe7884ae5879b],{803:function(a,e){a.exports={data:{site:{siteMetadata:{algolia:{appId:"YQ8SS0O4AX",searchOnlyApiKey:"7326059d4fa2ed4966f86cad13cfda93",indexName:"bernardnongpoh"}}}},pathContext:{}}}});
+//# sourceMappingURL=path---search-6aa568f75f194aa1d4bf.js.map
